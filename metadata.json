@@ -1,0 +1,7 @@
+{
+  "name": "EduStudy: Resúmenes y Juegos",
+  "description": "Una plataforma educativa interactiva con resúmenes de audio generados por IA y juegos de memorización para Fuenteovejuna, Lazarillo de Tormes y ensayos lingüísticos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
